@@ -11,3 +11,13 @@ Flash instructions via UART pins (requires soldering/desoldering JP1 and JP2 jum
 https://jyetech.com/wp-content/uploads/2018/07/dso138-firmware-upgrade.pdf
 
 Alternate flashing using SWD pins via ST Link type adapter: 
+
+Install [drivers](https://www.st.com/en/development-tools/stsw-link009.html#get-software) and [STM32 Link Utility](https://www.st.com/en/development-tools/stsw-link004.html#get-software) (you may need to reboot after for the adapter to be visible)
+
+Connect ST Link adapter to SWD pins
+Connect ST Link software to DSO-138 (Target>Connect in menu) 
+Open hex file File>Open 
+Select Target>Program & Verify
+
+![stlink1](https://github.com/kittenarmy/DSO-138/assets/9025713/2a6d48bc-b591-47fa-bd5e-5a4c7bed08e8)
+

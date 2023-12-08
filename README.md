@@ -1,6 +1,6 @@
 # DSO-138
 
-Latest Jyetech update version 113-13801-066 for DSO-138. This version fixes triggering at 50ms and below, trigger LED, and removed fake product warning.
+Latest Jyetech update version [113-13801-066](https://github.com/kittenarmy/DSO-138/archive/refs/tags/v0.66.zip) for DSO-138. This version fixes triggering at 50ms and below, trigger LED, and removed fake product warning.
 
 ![dso138-066-1](https://github.com/kittenarmy/DSO-138/assets/9025713/5cb8baa6-32a2-449d-817b-ca4eebaf2304)
 ![ds0138-066-2](https://github.com/kittenarmy/DSO-138/assets/9025713/3a7959fe-5246-4c8c-bcd6-2761b3403707)
